@@ -90,11 +90,17 @@ margin: 0 auto;
     overflow: hidden;
 }
 /* navigation */
+.div-nav{
+        display: flex;
+        align-items: center;
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+
 .nav{
     display: flex;
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    margin-right: auto;
 }
 
 .adress{
