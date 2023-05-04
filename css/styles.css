@@ -89,6 +89,31 @@ margin: 0 auto;
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+/* navigation */
+.nav{
+    display: flex;
+    align-items: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.adress{
+    display: flex;
+    align-items: right;
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: left;
+    margin-left: 76px;
+    gap: 40px;
+}
+
+.adress-list{
+    display: flex;
+    justify-content: right;
+    gap: 40px;
+}
 
 /* logo */
 
