@@ -76,7 +76,6 @@ address {
 .container{
 width: 1158px;
 margin: 0 auto;
-padding: 0 15px;
 padding-left: 15px;
 padding-right: 15px;
 }
@@ -103,6 +102,8 @@ padding-right: 15px;
         align-items: center;
         padding-top: 24px;
         padding-bottom: 24px;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 
 .nav{
