@@ -101,14 +101,15 @@ margin: 0 auto;
 .div-nav{
         display: flex;
         align-items: center;
-        padding-top: 24px;
-        padding-bottom: 24px;
+        
     }
 
 .nav{
     display: flex;
     align-items: center;
     margin-right: auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .adress{
